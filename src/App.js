@@ -14,7 +14,7 @@ function App() {
       />
       <SectionWrapper
         title="Smart User Interface Marketplace"
-        description="Experience a butery UI of ProNef NFT Marketplace. Smooth constant colors of fluent UI design."
+        description="Experience a buttery UI of ProNef NFT Marketplace. Smooth constant colors of fluent UI design."
         mockUpImg={assets.homeCards}
         reverse
       />
