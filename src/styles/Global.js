@@ -15,7 +15,7 @@ const styles = {
     "font-bold font-IBMPlex text-5xl sm:text-4xl minmd:text-6xl minlg:text-8xl leading-12 minmd:leading-13",
   
   pText: "my-5 text-2xl font-IBMPlex font-light sm:text-xl my-10",
-  descriptionText: "my-5 text-2xl font-IBMPlex font-light sm:text-xl my-10",
+  descriptionText: "my-5 text-xl font-IBMPlex font-light sm:text-xl my-10",
 
   btnText: "text-white font-IBMPlex minmd:text-lg",
 
