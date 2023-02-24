@@ -37,6 +37,8 @@ function App() {
         <p className={`${styles.pText} ${styles.whiteText}`}>
           Made with ❤ by {""}
           <span className="bold">Rushad</span>
+          <br />
+          Inspired by Javascript Mastery.
         </p>
       </div>
     </>
